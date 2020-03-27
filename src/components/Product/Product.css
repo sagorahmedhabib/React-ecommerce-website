@@ -1,0 +1,18 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightblue;
+    margin-right: 8px;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+}
+.left-margin{
+    margin-left: 15px;
+}
+.main-button{
+    background-color: goldenrod;
+    width: 180px;
+    height: 35px;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+}
